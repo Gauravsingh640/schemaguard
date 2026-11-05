@@ -2,7 +2,7 @@
 
 **Lightweight schema validation toolkit for JavaScript and TypeScript applications.**
 
-SchemaGuard helps developers validate objects against JSON Schemas with clean validation results, detailed error messages, and batch validation support.
+SchemaGuard helps developers validate JavaScript objects against JSON Schemas with clean validation results, detailed error messages, and batch validation support.
 
 ## ✨ Features
 
@@ -18,13 +18,13 @@ SchemaGuard helps developers validate objects against JSON Schemas with clean va
 ## 📦 Installation
 
 ```bash
-npm install schemaguard
+npm install @gaurav640/schemaguard
 ```
 
 ## 🚀 Quick Start
 
 ```typescript
-import { createValidator } from "schemaguard";
+import { createValidator } from "@gaurav640/schemaguard";
 
 interface User {
   name: string;
@@ -130,7 +130,7 @@ The batch result includes:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Gauravsingh640/schemaguard.git
 cd schemaguard
 ```
 
@@ -172,8 +172,12 @@ Feel free to fork the repository and submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 **SchemaGuard** — Validate with confidence. 🛡️
+
+**GitHub:** https://github.com/Gauravsingh640/schemaguard
+
+**npm:** https://www.npmjs.com/package/@gaurav640/schemaguard
