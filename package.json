@@ -1,5 +1,5 @@
 {
-  "name": "schemaguard",
+  "name": "@gaurav640/schemaguard",
   "version": "0.1.0",
   "description": "Lightweight schema validation toolkit for MongoDB applications",
   "license": "MIT",
